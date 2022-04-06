@@ -1,0 +1,1 @@
+nodemon --exec "cls && pip install . && python src/main.py" --ext py
